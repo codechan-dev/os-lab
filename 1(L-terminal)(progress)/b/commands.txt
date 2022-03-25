@@ -1,0 +1,11 @@
+a) date
+b) cal
+c)echo
+d)ls
+e)lp
+f)man
+g)who & whoami
+h)uptime
+i)uname
+j)hostname
+k)bc
